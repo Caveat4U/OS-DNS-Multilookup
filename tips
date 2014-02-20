@@ -1,0 +1,14 @@
+3 locks
+queue
+output
+termination - if all the files have been read and the queue is empty - use a bit to change to 1 - you need to let the consumer know that the producer is still 
+
+The queue only stores ints - push in address of the hostname
+
+Run test files and make sure test files produce the correct output (which should consist of 100 lines)
+megaupload.com -> should be a bogus name -> might need to double check
+
+Try and get rid of warnings on compilation
+
+valgrind should have 0Bytes on the last line 0-0-0
+

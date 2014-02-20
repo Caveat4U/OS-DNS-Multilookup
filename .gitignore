@@ -5,6 +5,7 @@
 
 #Build Files#
 lookup
+multi-lookup
 *.o
 
 #Output Files#
